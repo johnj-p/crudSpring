@@ -15,6 +15,7 @@
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
+		<!-- se ha cambiado la version 18 a 1.8 -->
 		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
