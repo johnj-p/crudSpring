@@ -22,6 +22,7 @@ h1{
     color: #fff;
 }
 .contenedor{
+    min-width: 200px;
     display: flex;
     flex-wrap: wrap;
 }
